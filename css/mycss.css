@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.div1 {
+    background-color: #DAA4CD;
+    width: 800px;
+    height: 354px;
+}
+
+
+.img1 {
+	float: left;
+	margin-right: 10px
+}
